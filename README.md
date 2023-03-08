@@ -5,7 +5,7 @@
 
 
 Landing Page:
-![screenshot](\LinksTree\img.jpg)
+![screenshot](img.jpg)
 
 
 
